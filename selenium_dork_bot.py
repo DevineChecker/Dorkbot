@@ -20,7 +20,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # ───────────────────────────────────────────────────────────────────────────────
 # Config / Env
 # ───────────────────────────────────────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN") or "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = os.getenv("8222993908:AAFD-ODIA9RR7_wRltWXvtlBwTQEfTYItKA") or "8222993908:AAFD-ODIA9RR7_wRltWXvtlBwTQEfTYItKA"
 DB_PATH = os.getenv("YUVRAJ_DB_PATH", "scan_cache.sqlite3")
 
 # ───────────────────────────────────────────────────────────────────────────────
