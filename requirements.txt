@@ -1,0 +1,6 @@
+python-telegram-bot==21.4
+requests[socks]
+beautifulsoup4
+tldextract
+selenium
+webdriver-manager
